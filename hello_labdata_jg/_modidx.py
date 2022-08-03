@@ -27,4 +27,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'user': 'JulianaGCelio',
                 'version': '0.0.1'},
   'syms': { 'hello_labdata_jg\\core': {'hello_labdata_jg\\core.hello': 'https://JulianaGCelio.github.io/hello_labdata_jg/hello_labdata_jg\\core.html#hello'},
-            'hello_labdata_jg\\greetings': { 'hello_labdata_jg\\greetings.hello': 'https://JulianaGCelio.github.io/hello_labdata_jg/hello_labdata_jg\\greetings.html#hello'}}}
+            'hello_labdata_jg\\greetings': { 'hello_labdata_jg\\greetings.hello': 'https://JulianaGCelio.github.io/hello_labdata_jg/hello_labdata_jg\\greetings.html#hello'},
+            'hello_labdata_jg\\jokes': { 'hello_labdata_jg\\jokes.qual_time_nao_tem_mundial': 'https://JulianaGCelio.github.io/hello_labdata_jg/hello_labdata_jg\\jokes.html#qual_time_nao_tem_mundial'}}}
